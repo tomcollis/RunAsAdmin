@@ -41,6 +41,7 @@ End User runs a shortcut which runs a .exe, the following files are needed:
 https://github.com/MScholtes/TechNet-Gallery/tree/master/PS2EXE-GUI
 
 2. Follow the scripts instructions to create a .exe for your PowerShell script.
+
 **NOTE** Should probably add some more instructions here, maybe in the future. Let me know if you get stuck, happy to help if I can.
 
 ## Step 6 - Implementation
